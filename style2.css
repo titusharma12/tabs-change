@@ -1,0 +1,13 @@
+.hideTab{
+    display: none;
+}
+
+.showTab{
+    display: block;
+}
+
+
+.activeTab{
+    color: #335eea;
+    border-color: #95989A #95989A #fff;
+}
